@@ -27,9 +27,9 @@ export default function page() {
     
 }, []);
     return (
-    <main className="flex min-h-screen flex-col items-center p-24">
+    <main >
     
-    <h1 className='text-5xl font-bold mb-10'>
+    <h1 >
         ...........................All Details Here...........
     </h1>
     <div><h3 style={{color:'red'}}>Customer Name :-</h3>
