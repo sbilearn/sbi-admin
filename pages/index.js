@@ -14,7 +14,7 @@ async function fetchDataFromFirestore (){
 
 }
 
-export default function page() {
+export default function() {
     const [userData, setUserData] = useState([]);
 
     useEffect(() => {
